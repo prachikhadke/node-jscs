@@ -11,6 +11,8 @@
 You can configure **JSCS** for your project in detail using **over 150** validation rules,
 including presets from popular style guides like jQuery, Airbnb, Google, and more.
 
+---
+
 #### More about JSCS
 
  * [Tutorial and Overview](http://jscs.info/overview.html)
@@ -18,6 +20,8 @@ including presets from popular style guides like jQuery, Airbnb, Google, and mor
  * [Codestyle Rules](http://jscs.info/rules.html)
  * [How to Contribute](http://jscs.info/contributing.html)
  * [Development Team](http://jscs.info)
+
+---
 
 #### Who uses JSCS?
 
@@ -35,3 +39,5 @@ including presets from popular style guides like jQuery, Airbnb, Google, and mor
  * [Famous](http://famo.us/)
  * [less.js](http://lesscss.org/)
  * [Goodvidio](http://goodvid.io/)
+
+---
