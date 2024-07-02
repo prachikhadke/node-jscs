@@ -5,6 +5,8 @@
 [![devDependency Status](https://david-dm.org/jscs-dev/node-jscs/dev-status.svg?theme=shields.io&style=flat)](https://david-dm.org/jscs-dev/node-jscs#info=devDependencies)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-green.svg?style=flat)](https://gitter.im/jscs-dev/node-jscs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+---
+
 **JSCS** — JavaScript Code Style
 
 **JSCS** is a code style linter for programmatically enforcing your style guide.
